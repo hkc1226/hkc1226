@@ -76,11 +76,12 @@
   <summary><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-Indigo?style=flat" /></sub></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />
 </details>
-
+<!--
 <details align="left" dir="auto">
   <summary><sub><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat" /></sub></summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" />
-</details>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226" alt="hkc1226" />
+</details> 
+-->
 
  <details align="left" dir="auto">
    <summary><sub><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-gray?style=flat" /></sub></summary>
