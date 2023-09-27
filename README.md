@@ -1,13 +1,8 @@
 <p align="left">
   <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="30"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="18"/>
-</p>
-
-<a href="https://twitter.com/hkc1226" target="blank">
-  <img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/>
-</a>
-
-<p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p>
+</p><br>
+<p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
 
 ![logo] (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Test](https://img.shields.io/badge/Python-black?color=blue&style=for-the-badge.svg)
@@ -67,6 +62,9 @@ ReactJs=<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoCo
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/hkc1226" target="blank">
+  <img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/>
+</a>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/hkc1226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hkc1226" height="30" width="40" /></a>
   
