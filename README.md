@@ -47,21 +47,32 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
 </p>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />&nbsp;
+<div>  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />&nbsp;
 </div>
 
 
-Python = <img src="https://img.shields.io/badge/Python-black?color=blue&style=flat-square.svg" />
-ReactJS = <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue">
-<p><a><img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&labelColor=darkblue&color=blue"></a></p>
 <p><p>Link to Social Profile:</p>
-<a href="https://www.leetcode.com/hkc1226/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-61DAFB?logo=leetcode&logoColor=white&labelColor=orange&color=yellow"></a>
-&emsp;
-<a href="https://www.hackerrank.com/hrishikeshkumar3" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C"></a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&labelColor=darkblue&color=blue">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Python-black?color=blue&style=flat-square.svg" />
+</a>
+<a href="https://www.leetcode.com/hkc1226/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-61DAFB?logo=leetcode&logoColor=white&labelColor=orange&color=yellow">
+</a>
+<a href="https://www.hackerrank.com/hrishikeshkumar3" target="_blank">
+  <img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C">
+</a>
 </p>
+
+
 <!--
 <p><a><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />X</a></p>
 <p><a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />Twitter</a></p>
