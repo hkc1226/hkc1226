@@ -11,9 +11,13 @@
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
 <hr>
 
+<!-- ## 🏆GitHub Trophies: -->
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20GitHub%20Trophies%3A-darkred?style=flat" />
 <p align="left"> </p>
-<p align="left"> <a href="https://github.com/hkc1226/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a>
+<p align="left"> <a href="https://github.com/hkc1226/"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a>
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hkc1226&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
 
 <p>
   <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
@@ -71,7 +75,30 @@
   <img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C">
 </a>
 </p>
+<hr>
+<hr>
+<hr>
+<hr>
+# 📊 GitHub Stats:
 
+![](https://github-profile-trophy.vercel.app/?username=hkc1226&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+[![](https://visitcount.itsvg.in/api?id=hkc1226&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+<hr>
+<hr>
+<hr>
 
 <!--
 <p><a><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />X</a></p>
