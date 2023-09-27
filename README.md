@@ -26,7 +26,15 @@
 
 <!--
 # Parameters for 'https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6' are given below:
-title, rank, column = number value, row = = number value, theme, margin-w = number value, margin-h = number value, no-bg = true | false, no-frame = true | false 
+1. title = Stars | Followers; 
+2. rank = SECRET | SSS | SS | S | AAA | AA | A | B | C; 
+3. column (default = 6) = number type;
+4. row (default = 3) = number type;
+5. theme = flat | onedark | gruvbox | dracula | monokai | chalk | nord | alduin | darkhub | juicyfresh | buddhism | oldie | radical | onestar | discord | algolia | gitdimmed | tokyonight | matrix | apprentice | dark_dimmed | dark_lover;
+6. margin-w (default = 0) = number type;
+7. margin-h (default = 0) = number type;
+8. no-bg (default = false) = true | false;
+9. no-frame (default = false) = true | false ;
 -->
 
 
