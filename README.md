@@ -47,21 +47,22 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
 </p>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" /></div>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" />
+</div>
 
 
-
-
-![logo] (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![Test](https://img.shields.io/badge/Python-black?color=blue&style=for-the-badge.svg)
-ReactJs=<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue">
+Python = <img src="https://img.shields.io/badge/Python-black?color=blue&style=flat-square.svg" />
+ReactJS = <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue">
 <p><a><img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&labelColor=darkblue&color=blue"></a></p>
 <p><p>Link to Social Profile:</p>
 <a href="https://www.leetcode.com/hkc1226/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-61DAFB?logo=leetcode&logoColor=white&labelColor=orange&color=yellow"></a>
 &emsp;
 <a href="https://www.hackerrank.com/hrishikeshkumar3" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C"></a>
 </p>
-![logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue.svg)
+<!--
 <p><a><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />X</a></p>
 <p><a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />Twitter</a></p>
 <p><a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Color=white" />LinkedIn</a></p>
@@ -93,3 +94,4 @@ ReactJs=<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoCo
 <p><a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />MySQL</a>MySQL</p>
 <p><a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />MongoDB</a></p>
 <p><a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />GeeksforGeeks</a></p>
+-->
