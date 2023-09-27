@@ -4,7 +4,7 @@
 </p><br>
 <p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
 
-<img src="https://img.shields.io/badge/ABOUT%20ME:-red?style=flat" width="auto" height="24">
+<p><img src="https://img.shields.io/badge/ABOUT%20ME:-red?style=flat" width="auto" height="24"></p>
 
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
@@ -12,7 +12,9 @@
 <hr>
 
 <p align="left"> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a>
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
 </p>
@@ -26,6 +28,24 @@
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Twitter-FFA116?style=fflat-square&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Instagram-FFA116?style=fflat-square&logo=instagram&logoColor=white&color=black" /></a>
 </p>
+
+
+
+<p>
+  <img src="https://img.shields.io/badge/TECH%20STACKS%3A-darkgreen?style=flat" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=fflat-square&logo=LeetCode&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-HackerRank-FFA116?style=fflat-square&logo=Hackerrank&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=fflat-square&logo=geeksforgeeks&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-CodePen-FFA116?style=fflat-square&logo=codepen&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=fflat-square&logo=linkedin&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-Twitter-FFA116?style=fflat-square&logo=twitter&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-Instagram-FFA116?style=fflat-square&logo=instagram&logoColor=white&color=black" />
+</p>
+
+
 
 <p><a href="https://codepen.io/hkc1226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hkc1226" height="30" width="40" /><img src="https://img.shields.io/twitter/follow/hkc1226?logo=codepen-fill&style=for-the-badge" alt="hkc1226" width="auto" height="24"/></a></a></p>
 <p><a><img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white">Indeed</a></p>
