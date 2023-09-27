@@ -1,14 +1,13 @@
 <p align="left">
-  <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-darkblue?style=flat-square" width="auto" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="30"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="18"/>
 </p>
-<br>
-<p>
-  <a href="https://twitter.com/hkc1226" target="blank">
-    <img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/>
-  </a>  
-</p>
 
+<a href="https://twitter.com/hkc1226" target="blank">
+  <img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/>
+</a>
+
+<p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p>
 
 ![logo] (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Test](https://img.shields.io/badge/Python-black?color=blue&style=for-the-badge.svg)
@@ -53,9 +52,6 @@ ReactJs=<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoCo
 <p><a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />GeeksforGeeks</a></p>
 
 
-
-<h1 align="center">Hi 👋, I'm Hrishikesh Kumar</h1>
-<h3 align="center">A passionate Python Full-Stack Developer from India.</h3>
 
 
 <p align="left"> </p>
