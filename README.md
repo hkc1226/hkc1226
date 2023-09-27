@@ -65,15 +65,25 @@ no-frame
   <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
 </p>
 
-<div>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />
-</div>
+<details>
+  <summary><img src="https://img.shields.io/badge/Hkc1226's%20GitHub%20Stats%3A-Indigo?style=flat" /></summary>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" /></p>
+</details>
 
-<img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo%3A-violet?style=flat" />
+<details>
+  <summary><img src="https://img.shields.io/badge/Hkc1226's%20Streak%20Stats%3A-violet?style=flat" /></summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" /></p>
+</details>
 
-![](https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true)
+<details>
+  <summary><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-gray?style=flat" /></summary>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" /></p>
+</details>
+
+<details>
+  <summary><img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo%3A-violet?style=flat" /></summary>
+  <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="hkc1226" /></p>
+</details>
 
 <p><p>Link to Social Profile:</p>
 <a href="#" target="_blank">
