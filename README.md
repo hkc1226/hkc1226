@@ -17,14 +17,12 @@
 
 <p>
   <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
-</p>
-
-<p>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=fflat-square&logo=LeetCode&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-HackerRank-FFA116?style=fflat-square&logo=Hackerrank&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=fflat-square&logo=geeksforgeeks&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-CodePen-FFA116?style=fflat-square&logo=codepen&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=fflat-square&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Indeed-FFA116?style=fflat-square&logo=indeed&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Twitter-FFA116?style=fflat-square&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Instagram-FFA116?style=fflat-square&logo=instagram&logoColor=white&color=black" /></a>
 </p>
@@ -33,9 +31,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/TECH%20STACKS%3A-darkgreen?style=flat" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/-HTML-FFA116?style=fflat-square&logo=html5&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-CSS-FFA116?style=fflat-square&logo=css3&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-Sass-FFA116?style=fflat-square&logo=sass&logoColor=white&color=black" />
@@ -43,6 +38,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-FFA116?style=fflat-square&logo=javascript&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-C-FFA116?style=fflat-square&logo=c&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-C++-FFA116?style=fflat-square&logo=c%2B%2B&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
 </p>
 
 
