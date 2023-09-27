@@ -2,7 +2,9 @@
   <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="30"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="18"/>
 </p>
+
 <br>
+
 <p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
 
 <p><img src="https://img.shields.io/badge/ABOUT%20ME:-red?style=flat" width="auto" height="24"></p>
@@ -10,6 +12,7 @@
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
+
 <hr>
 
 <!-- ## 🏆GitHub Trophies: -->
@@ -17,19 +20,13 @@
 
 <p align="left">
   <a href="https://github.com/hkc1226?tab=repositories" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=1&column=7&margin-w=6" alt="hkc1226" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6" alt="hkc1226" />
   </a>
 </p>
-<!-- 
-title
-rank
-column
-row
-theme
-margin-w
-margin-h
-no-bg
-no-frame 
+
+<!--
+# Parameters for 'https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6' are given below:
+title, rank, column = number value, row = = number value, theme, margin-w = number value, margin-h = number value, no-bg = true | false, no-frame = true | false 
 -->
 
 
