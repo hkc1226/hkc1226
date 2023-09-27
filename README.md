@@ -1,7 +1,8 @@
 <p align="left">
   <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="30"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="18"/>
-</p><br>
+</p>
+<br>
 <p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
 
 <p><img src="https://img.shields.io/badge/ABOUT%20ME:-red?style=flat" width="auto" height="24"></p>
@@ -12,11 +13,15 @@
 <hr>
 
 <!-- ## 🏆GitHub Trophies: -->
-<img src="https://img.shields.io/badge/%F0%9F%8F%86%20GitHub%20Trophies%3A-darkred?style=flat" />
-<p align="left"> </p>
-<p align="left"> <a href="https://github.com/hkc1226?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226&title=Followers" alt="hkc1226" /></a>
+<p><img src="https://img.shields.io/badge/%F0%9F%8F%86%20GitHub%20Trophies%3A-darkred?style=flat" /></p>
+
+<p align="left">
+  <a href="https://github.com/hkc1226?tab=repositories" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=1&column=7&margin-w=6" alt="hkc1226" />
+  </a>
 </p>
-<!-- title
+<!-- 
+title
 rank
 column
 row
@@ -24,8 +29,9 @@ theme
 margin-w
 margin-h
 no-bg
-no-frame -->
-<img src="https://github-profile-trophy.vercel.app/?username=hkc1226&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
+no-frame 
+-->
+
 
 <p>
   <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
@@ -62,9 +68,12 @@ no-frame -->
 <div>  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />
 </div>
 
+<img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo%3A-violet?style=flat" />
+
+![](https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 <p><p>Link to Social Profile:</p>
 <a href="#" target="_blank">
@@ -83,30 +92,6 @@ no-frame -->
   <img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C">
 </a>
 </p>
-<hr>
-<hr>
-<hr>
-<hr>
-# 📊 GitHub Stats:
-
-![](https://github-profile-trophy.vercel.app/?username=hkc1226&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-[![](https://visitcount.itsvg.in/api?id=hkc1226&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<hr>
-<hr>
-<hr>
-<hr>
 
 <!--
 <p><a><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />X</a></p>
