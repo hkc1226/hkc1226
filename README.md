@@ -65,25 +65,36 @@ no-frame
   <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
 </p>
 
-<details>
-  <summary><img src="https://img.shields.io/badge/Hkc1226's%20GitHub%20Stats%3A-Indigo?style=flat" /></summary>
+
+
+<p>
+  <span>
+    <details>
+  <summary><img src="https://img.shields.io/badge/GitHub%20Stats%3A-Indigo?style=flat" /></summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" /></p>
 </details>
-
-<details>
-  <summary><img src="https://img.shields.io/badge/Hkc1226's%20Streak%20Stats%3A-violet?style=flat" /></summary>
+  </span>
+  <span>
+  <details>
+  <summary><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat" /></summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" /></p>
 </details>
-
-<details>
+</span>
+  <a>
+    <details>
   <summary><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-gray?style=flat" /></summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" /></p>
 </details>
-
-<details>
+  </a>
+  <a>
+    <details>
   <summary><img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo%3A-violet?style=flat" /></summary>
   <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="hkc1226" /></p>
 </details>
+  </a>
+</p>
+
+
 
 <p><p>Link to Social Profile:</p>
 <a href="#" target="_blank">
