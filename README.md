@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
 </p>
 
+<p>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=fflat-square&logo=LeetCode&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-HackerRank-FFA116?style=fflat-square&logo=Hackerrank&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=fflat-square&logo=geeksforgeeks&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-CodePen-FFA116?style=fflat-square&logo=codepen&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=fflat-square&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Twitter-FFA116?style=fflat-square&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Instagram-FFA116?style=fflat-square&logo=instagram&logoColor=white&color=black" /></a>
+</p>
 
 <p><a href="https://codepen.io/hkc1226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hkc1226" height="30" width="40" /><img src="https://img.shields.io/twitter/follow/hkc1226?logo=codepen-fill&style=for-the-badge" alt="hkc1226" width="auto" height="24"/></a></a></p>
 <p><a><img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white">Indeed</a></p>
