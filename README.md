@@ -74,7 +74,7 @@
 
 <details align="left" dir="auto">
   <summary><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-Indigo?style=flat" /></sub></summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="hkc1226" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>
 <!--
 <details align="left" dir="auto">
@@ -85,12 +85,12 @@
 
  <details align="left" dir="auto">
    <summary><sub><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-gray?style=flat" /></sub></summary>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="hkc1226" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="Language Used Stats" />
  </details>
 
 <details align="left" dir="auto">
   <summary><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo%3A-violet?style=flat" /></sub></summary>
-  <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="hkc1226" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </details>
 
 
