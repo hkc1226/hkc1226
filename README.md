@@ -1,3 +1,12 @@
+<p>
+  <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-darkblue?style=flat-square" width="auto" height="30"/>
+    <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="24"/>
+</p>
+
+<p>  <a href="https://twitter.com/hkc1226" target="blank"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/></a>  
+</p>
+
+
 ![logo] (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Test](https://img.shields.io/badge/Python-black?color=blue&style=for-the-badge.svg)
 ReactJs=<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue">
@@ -45,7 +54,7 @@ ReactJs=<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoCo
 <h1 align="center">Hi 👋, I'm Hrishikesh Kumar</h1>
 <h3 align="center">A passionate Python Full-Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="24"/> <a href="https://twitter.com/hkc1226" target="blank"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/></a>  </p>
+
 <p align="left"> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a> </p>
 
