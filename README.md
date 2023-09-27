@@ -4,6 +4,7 @@
 </p><br>
 <p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
 
+<img src="https://img.shields.io/badge/ABOUT%20ME:-red?style=flat" width="auto" height="24">
 
 
 <p align="left"> </p>
