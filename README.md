@@ -74,7 +74,7 @@ no-frame
 
 <details align="left" dir="auto">
   <summary><sub><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat" /></sub></summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226&" alt="hkc1226" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226/" alt="hkc1226" />
 </details>
 
  <details align="left" dir="auto">
