@@ -9,10 +9,14 @@
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
-
+<hr>
 
 <p align="left"> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkc1226" alt="hkc1226" /></a></p>
+<p>
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
+</p>
+
 
 <p><a href="https://codepen.io/hkc1226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hkc1226" height="30" width="40" /><img src="https://img.shields.io/twitter/follow/hkc1226?logo=codepen-fill&style=for-the-badge" alt="hkc1226" width="auto" height="24"/></a></a></p>
 <p><a><img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white">Indeed</a></p>
