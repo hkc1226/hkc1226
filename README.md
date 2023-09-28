@@ -113,12 +113,12 @@ BOotstrap: 563D7C
 -->
 
  <details align="left" dir="auto">
-   <summary><sub><sub><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-2B8C67?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
+   <summary><sub><sub><img src="https://img.shields.io/badge/-%F0%9F%93%8A-black?&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-2B8C67?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="Language Used Stats" />
  </details>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo-316192?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/Top%20Contributed%20Repo-316192?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </details>
 
@@ -165,4 +165,8 @@ BOotstrap: 563D7C
 <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
+-->
+
+<!--
+<img src="https://img.shields.io/badge/%F0%9F%92%B9%20%F0%9F%93%8A%20%F0%9F%93%88%20%F0%9F%93%89%20%F0%9F%94%A7%20%F0%9F%94%97%20%F0%9F%8E%93-black?style=flat-square" />
 -->
