@@ -55,9 +55,9 @@
 -->
 <p>
   <img src="https://img.shields.io/badge/TECH%20STACKS%3A-darkgreen?style=flat" />
-  <img src="https://img.shields.io/badge/-HTML-FFA116?style=fflat-square&logo=html5&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/-CSS-FFA116?style=fflat-square&logo=css3&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/-Sass-FFA116?style=fflat-square&logo=sass&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=CC6699" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=FFFFFF&color=563D7C" />
   <img src="https://img.shields.io/badge/-JavaScript-FFA116?style=fflat-square&logo=javascript&logoColor=FFDB4F&labelColor=323330&color=3F8F8F" />
   <img src="https://img.shields.io/badge/-Programming%20C-FFA116?style=fflat-square&logo=c&logoColor=5E97D0&labelColor=FAF11A&color=044F88" />
@@ -68,6 +68,8 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=white&labelColor=0064A5&color=316192" />
 </p>
 <!-- 
+CSS3: #264DE4, #2965F1, #EBEBEB, 1572B6
+HTML: #e34c26, #f06529, #ebebeb, #E34F26
 Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
 C++: #044F88 and #5E97D0.
 JavaScript: Yellow (#F0DB4F) and Dark Charcoal (#323330)
