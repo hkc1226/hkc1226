@@ -12,7 +12,7 @@
 <hr>
 
 <p>
-  <img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%A8-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
 </p>
 
 - 🌱 I’m currently learning **react.js**
@@ -49,7 +49,7 @@
 -->
 
 <p>
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%97-000?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <a><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="20"/></a>&ensp;
@@ -74,7 +74,7 @@ instagram color composition: Light yellow (#FEDA75),
 -->
 <hr>
 <p>
-  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />&ensp;
@@ -101,7 +101,7 @@ BOotstrap: 563D7C
 <hr>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-D166A3?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%93%B6-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/GitHub%20Stats%3A-D166A3?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>
 
