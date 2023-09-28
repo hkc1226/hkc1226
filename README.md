@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
-
+<!--
 <hr>
 
-<!-- ## 🏆GitHub Trophies: -->
+ ## 🏆GitHub Trophies:
 <p><img src="https://img.shields.io/badge/%F0%9F%8F%86%20GitHub%20Trophies%3A-darkred?style=flat" /></p>
 
 <p align="left">
@@ -23,7 +23,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6" alt="hkc1226" />
   </a>
 </p>
-
+-->
 <!--
 # Parameters for 'https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6' are given below:
 1. title = Stars | Followers; 
@@ -39,20 +39,20 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%3A-darkgreen?style=flat" />
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=fflat-square&logo=LeetCode&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-HackerRank-FFA116?style=fflat-square&logo=Hackerrank&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=fflat-square&logo=geeksforgeeks&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-CodePen-FFA116?style=fflat-square&logo=codepen&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=fflat-square&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Indeed-FFA116?style=fflat-square&logo=indeed&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Twitter-FFA116?style=fflat-square&logo=twitter&logoColor=white&color=black" /></a>
-  <a href="https://www.leetcode.com/hkc1226/" ><img src="https://img.shields.io/badge/-Instagram-FFA116?style=fflat-square&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://twitter.com/hkc1226" target="blank">
-    <img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=for-the-badge" alt="hkc1226" width="auto" height="24"/>
-  </a>
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-darkgreen?style=flat" /> <img src="https://img.shields.io/badge/%3A-red">
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LeetCode-F47D2E?style=flat-square&logo=LeetCode&labelColor=000000&logoColor=FFFFFF&color=F47D2E" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-HackerRank-00751F?style=flat-square&logo=Hackerrank&logoColor=FFFFFF&labelColor=00751F&color=00FF1F" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=flat-square&logo=geeksforgeeks&logoColor=white&color=black" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-CodePen-FFA116?style=flat-square&logo=codepen&logoColor=white&color=black" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white&color=black" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-FFA116?style=flat-square&logo=indeed&logoColor=white&color=black" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-FFA116?style=flat-square&logo=twitter&logoColor=white&color=black" width="auto" height="20"/></a>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-FFA116?style=flat-square&logo=instagram&logoColor=white&color=black" width="auto" height="20"/></a>
 </p>
 
+<!-- 
+  <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
+-->
 
 
 <p>
