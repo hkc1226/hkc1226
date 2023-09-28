@@ -41,14 +41,14 @@
   <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-044F88?color=EBEBEB&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&labelColor=EBEBEB&logoColor=E34F26&color=FFA116" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=E34F26&labelColor=EBEBEB&color=FFA116" width="auto" height="20"/></a>&ensp;
   <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=Hackerrank&logoColor=00751F&labelColor=EBEBEB&color=00751F" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=flat-square&logo=geeksforgeeks&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-CodePen-FFA116?style=flat-square&logo=codepen&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-FFA116?style=flat-square&logo=indeed&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-FFA116?style=flat-square&logo=twitter&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-FFA116?style=flat-square&logo=instagram&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=298D46&labelColor=EBEBEB&color=298D46" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=000000&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-FFA116?style=flat-square&logo=indeed&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-FFA116?style=flat-square&logo=twitter&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-FFA116?style=flat-square&logo=instagram&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
 </p>
 
 <!-- 
@@ -127,6 +127,7 @@ BOotstrap: 563D7C
 <p><a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&color=black" />LeetCode</a></p>
 <p><a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />Hackerrank</a></p>
 <!-- GFG -->
+<p><a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a></p>
 <p><a><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />Codepen</a></p>
 <p><a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Color=white" />LinkedIn</a></p>
 <!-- Indeed -->
