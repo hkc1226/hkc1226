@@ -111,37 +111,21 @@ BOotstrap: 563D7C
 
 
 
-
-<p><p>Link to Social Profile:</p>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&labelColor=darkblue&color=blue">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Python-black?color=blue&style=flat-square.svg" />
-</a>
-<a href="https://www.leetcode.com/hkc1226/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-61DAFB?logo=leetcode&logoColor=white&labelColor=orange&color=yellow">
-</a>
-<a href="https://www.hackerrank.com/hrishikeshkumar3" target="_blank">
-  <img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C">
-</a>
-</p>
-
-<!--
+<p>Link to Social Profile:</p>
 <p>
-<a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&color=black" />LeetCode</a>
-<a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />Hackerrank</a>
+<a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&color=black" /></a>
+<a><img src="https://img.shields.io/badge/-LeetCode-61DAFB?logo=leetcode&logoColor=white&labelColor=orange&color=yellow"></a>
+<a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/-HackerRank-61DAFB?logo=HackerRank&logoColor=white&labelColor=black&color=#1BA94C"></a>
 <a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />Codepen</a>
-<a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Color=white" />LinkedIn</a>
+<a><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Color=white" /></a>
 <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-003A9B?style=flat-square&logo=indeed&logoColor=003A9B&labelColor=EBEBEB&color=003A9B"/></a>
-<a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />Twitter</a>
-<a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />Instagram</a>
-<hr>
+<a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&labelColor=darkblue&color=blue"></a>
+<a><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
@@ -150,13 +134,12 @@ BOotstrap: 563D7C
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+<a><img src="https://img.shields.io/badge/Python-black?color=blue&style=flat-square.svg" /></a>
 <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
 <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<hr>
 <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<hr>
+<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&labelColor=blue"></a>
 <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
@@ -168,4 +151,4 @@ BOotstrap: 563D7C
 <a><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
--->
+</p>
