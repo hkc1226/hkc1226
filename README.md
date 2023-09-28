@@ -28,6 +28,8 @@
 
 <hr>
 
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="20"/>
+
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%94%97-000?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
 </p>
@@ -64,7 +66,7 @@
 <hr>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%93%B6-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/GitHub%20Stats%3A-D166A3?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub Stats-D166A3?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>
 
