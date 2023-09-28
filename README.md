@@ -90,7 +90,7 @@ BOotstrap: 563D7C
 <hr>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-CC6699?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-pink?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-D166A3?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>
 
