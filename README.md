@@ -74,11 +74,12 @@ instagram color composition: Light yellow (#FEDA75),
   <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" />&ensp;
   <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=FFFFFF&color=00599C" />&ensp;
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />&ensp;
-  <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=20AA76&labelColor=092E20&color=2B8C67" />&ensp;
+  <img src="https://img.shields.io/badge/-Django-092E20?style=fflat-square&logo=django&logoColor=green&labelColor=092E20&color=2B8C67" />&ensp;
   <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />&ensp;
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=EBEBEB&color=316192" />&ensp;
 </p>
 <!-- 
+Django: 20AA76
 CSS3: #264DE4, #2965F1, #EBEBEB, 1572B6
 HTML: #e34c26, #f06529, #ebebeb, #E34F26
 Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
