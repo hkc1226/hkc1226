@@ -33,15 +33,15 @@
 </p>
 
 <p>
-  <a href="https://github.com/hkc1226" title="GitHub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/" title="LeetCode" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=E34F26&labelColor=EBEBEB&color=FFA116" width="auto" height="20"/></a>&ensp;
-  <a href="https://www.hackerrank.com/Hkc1226" title="HackerRank" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=Hackerrank&logoColor=00751F&labelColor=EBEBEB&color=00751F" width="auto" height="20"/></a>&ensp;
-  <a href="https://auth.geeksforgeeks.org/user/hkc1226" title="GeeksForGeeks" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=298D46&labelColor=EBEBEB&color=298D46" width="auto" height="20"/></a>&ensp;
-  <a href="https://codepen.io/HKC1226" title="CodePen" target="_blank"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=000000&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://www.linkedin.com/in/hkc1226/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=0072B1&labelColor=EBEBEB&color=0072B1" width="auto" height="20"/></a>&ensp;
-  <a href="https://indeedhi.re/3PD8vju" title="Indeed" target="_blank"><img src="https://img.shields.io/badge/-Indeed-003A9B?style=flat-square&logo=indeed&logoColor=003A9B&labelColor=EBEBEB&color=003A9B" width="auto" height="20"/></a>&ensp;
-  <a href="https://twitter.com/Hkc1226" title="Twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=EBEBEB&color=1DA1F2" width="auto" height="20"/></a>&ensp;
-  <a href="https://www.instagram.com/hkc792/" title="Instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=EBEBEB&color=E4405F" width="auto" height="20"/></a>&ensp;
+  <a href="https://github.com/hkc1226" title="GitHub" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/" title="LeetCode" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=E34F26&labelColor=EBEBEB&color=FFA116" width="auto" height="20"/></a>&ensp;
+  <a href="https://www.hackerrank.com/Hkc1226" title="HackerRank" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=Hackerrank&logoColor=00751F&labelColor=EBEBEB&color=00751F" width="auto" height="20"/></a>&ensp;
+  <a href="https://auth.geeksforgeeks.org/user/hkc1226" title="GeeksForGeeks" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=298D46&labelColor=EBEBEB&color=298D46" width="auto" height="20"/></a>&ensp;
+  <a href="https://codepen.io/HKC1226" title="CodePen" target="blank"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=000000&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://www.linkedin.com/in/hkc1226/" title="LinkedIn" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=0072B1&labelColor=EBEBEB&color=0072B1" width="auto" height="20"/></a>&ensp;
+  <a href="https://indeedhi.re/3PD8vju" title="Indeed" target="blank"><img src="https://img.shields.io/badge/-Indeed-003A9B?style=flat-square&logo=indeed&logoColor=003A9B&labelColor=EBEBEB&color=003A9B" width="auto" height="20"/></a>&ensp;
+  <a href="https://twitter.com/Hkc1226" title="Twitter" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=EBEBEB&color=1DA1F2" width="auto" height="20"/></a>&ensp;
+  <a href="https://www.instagram.com/hkc792/" title="Instagram" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=EBEBEB&color=E4405F" width="auto" height="20"/></a>&ensp;
 </p>
 
 <hr>
