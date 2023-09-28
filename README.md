@@ -1,13 +1,13 @@
 <p align="left">
-  <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="30"/>
-  <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="18"/>
+  <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="40"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="20"/>
 </p>
 
 <br>
 
 <p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
 
-<p><img src="https://img.shields.io/badge/ABOUT%20ME:-red?style=flat" width="auto" height="24"></p>
+<p><img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/></p>
 
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
@@ -38,7 +38,7 @@
 -->
 
 <p>
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-044F88?color=EBEBEB&style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <a><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="20"/></a>&ensp;
@@ -63,16 +63,16 @@ instagram color composition: Light yellow (#FEDA75),
 -->
 <hr>
 <p>
-  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-044F88?color=EBEBEB&style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />&ensp;
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" />&ensp;
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=CC6699" />&ensp;
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=FFFFFF&color=563D7C" />&ensp;
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=EBEBEB&color=CC6699" />&ensp;
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=EBEBEB&color=563D7C" />&ensp;
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=fflat-square&logo=javascript&logoColor=323330&labelColor=F0DB4F&color=3F8F8F" />&ensp;
   <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" />&ensp;
-  <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=FFFFFF&color=00599C" />&ensp;
+  <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=EBEBEB&color=00599C" />&ensp;
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />&ensp;
   <img src="https://img.shields.io/badge/-Django-092E20?style=fflat-square&logo=django&logoColor=green&labelColor=092E20&color=2B8C67" />&ensp;
   <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />&ensp;
@@ -90,28 +90,29 @@ BOotstrap: 563D7C
 <hr>
 
 <details align="left" dir="auto">
-  <summary><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-Indigo?style=flat" /></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Stats%3A-CC6699?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-pink?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>
+
 <!--
 <details align="left" dir="auto">
-  <summary><sub><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat" /></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat-square" width="auto" height="24"/></sub></summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226" alt="hkc1226" />
 </details> 
 -->
 
  <details align="left" dir="auto">
-   <summary><sub><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-gray?style=flat" /></sub></summary>
+   <summary><sub><sub><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-2B8C67?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="Language Used Stats" />
  </details>
 
 <details align="left" dir="auto">
-  <summary><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo%3A-violet?style=flat" /></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D%20Top%20Contributed%20Repo-316192?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </details>
 
 
-
+<!--
 <p>Link to Social Profile:</p>
 <p>
 <a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&color=black" /></a>
@@ -153,3 +154,4 @@ BOotstrap: 563D7C
 <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
+-->
