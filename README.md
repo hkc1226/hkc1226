@@ -64,10 +64,12 @@
   <img src="https://img.shields.io/badge/-C++-FFA116?style=fflat-square&logo=c%2B%2B&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />
   <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=20AA76&labelColor=092E20&color=2B8C67" />
-  <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=FFFFFF&color=0064A5" />
 </p>
-
+<!-- 
+Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
+-->
 <hr>
 
 <details align="left" dir="auto">
