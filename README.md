@@ -1,16 +1,11 @@
 <p align="left">
-  <img align="left" src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Hrishikesh%20Kumar-blue?style=flat-square" width="auto" height="40"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%8B-darkblue?style=flat-square" width="auto" height="40"/><img src="https://img.shields.io/badge/I'm%20Hrishikesh-blue?style=flat-square" width="auto" height="40"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=hkc1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="hkc1226" width="auto" height="20"/>
 </p>
-
-<br>
-
-<p align="left">
+<p>
   <b>A passionate Python Full-Stack Developer from India.</b>
 </p>
-
 <hr>
-
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%91%A8-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
 </p>
@@ -20,10 +15,6 @@
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
 
 <hr>
-
-<!--
- ## 🏆GitHub Trophies:
--->
  
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%8F%86-000000?style=flat-square"  width="auto" height="24"/><img src="https://img.shields.io/badge/%20GitHub%20Trophies-darkred?style=flat-square"  width="auto" height="24"/><img src="https://img.shields.io/badge/%3A-red?style=flat-square"  width="auto" height="24"/>
@@ -34,20 +25,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6" alt="hkc1226" />
   </a>
 </p>
-
-<!--
-# Parameters for 'https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6' are given below:
-1. title = Stars | Followers; 
-2. rank = SECRET | SSS | SS | S | AAA | AA | A | B | C; 
-3. column (default = 6) = number type;
-4. row (default = 3) = number type;
-5. theme = flat | onedark | gruvbox | dracula | monokai | chalk | nord | alduin | darkhub | juicyfresh | buddhism | oldie | radical | onestar | discord | algolia | gitdimmed | tokyonight | matrix | apprentice | dark_dimmed | dark_lover;
-6. margin-w (default = 0) = number type;
-7. margin-h (default = 0) = number type;
-8. no-bg (default = false) = true | false;
-9. no-frame (default = false) = true | false ;
--->
-
+<hr>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%94%97-000?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
 </p>
@@ -63,16 +41,8 @@
   <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=EBEBEB&color=E4405F" width="auto" height="20"/></a>&ensp;
 </p>
 
-<!-- 
-  <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
-
-instagram color composition: Light yellow (#FEDA75), 
-           orange (#FA7E1E), 
-           pink (#D62976), 
-           purple (#962FBF)
-           blue (#4F5BD5)
--->
 <hr>
+
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%8E%AF-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="24"/>
 </p>
@@ -89,28 +59,13 @@ instagram color composition: Light yellow (#FEDA75),
   <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />&ensp;
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=EBEBEB&color=316192" />&ensp;
 </p>
-<!-- 
-Django: 20AA76
-CSS3: #264DE4, #2965F1, #EBEBEB, 1572B6
-HTML: #e34c26, #f06529, #ebebeb, #E34F26
-Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
-C++: #044F88 and #5E97D0.
-JavaScript: Yellow (#F0DB4F) and Dark Charcoal (#323330), 308A8A
-BOotstrap: 563D7C
--->
+
 <hr>
 
 <details align="left" dir="auto">
   <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%93%B6-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/GitHub%20Stats%3A-D166A3?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>
-
-<!--
-<details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat-square" width="auto" height="24"/></sub></summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226" alt="hkc1226" />
-</details> 
--->
 
  <details align="left" dir="auto">
    <summary><sub><sub><img src="https://img.shields.io/badge/-%F0%9F%93%8A-black?&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-2B8C67?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
@@ -122,6 +77,25 @@ BOotstrap: 563D7C
   <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </details>
 
+<hr>
+
+<!--
+<details align="left" dir="auto">
+  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub%20Contribution%20Streak%20Counts%3A-violet?style=flat-square" width="auto" height="24"/></sub></summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkc1226" alt="hkc1226" />
+</details> 
+-->
+
+
+<!-- 
+Django: 20AA76
+CSS3: #264DE4, #2965F1, #EBEBEB, 1572B6
+HTML: #e34c26, #f06529, #ebebeb, #E34F26
+Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
+C++: #044F88 and #5E97D0.
+JavaScript: Yellow (#F0DB4F) and Dark Charcoal (#323330), 308A8A
+BOotstrap: 563D7C
+-->
 
 <!--
 <p>Link to Social Profile:</p>
@@ -165,6 +139,29 @@ BOotstrap: 563D7C
 <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
+-->
+
+<!--
+# Parameters for 'https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6' are given below:
+1. title = Stars | Followers; 
+2. rank = SECRET | SSS | SS | S | AAA | AA | A | B | C; 
+3. column (default = 6) = number type;
+4. row (default = 3) = number type;
+5. theme = flat | onedark | gruvbox | dracula | monokai | chalk | nord | alduin | darkhub | juicyfresh | buddhism | oldie | radical | onestar | discord | algolia | gitdimmed | tokyonight | matrix | apprentice | dark_dimmed | dark_lover;
+6. margin-w (default = 0) = number type;
+7. margin-h (default = 0) = number type;
+8. no-bg (default = false) = true | false;
+9. no-frame (default = false) = true | false ;
+-->
+
+<!-- 
+  <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
+
+instagram color composition: Light yellow (#FEDA75), 
+           orange (#FA7E1E), 
+           pink (#D62976), 
+           purple (#962FBF)
+           blue (#4F5BD5)
 -->
 
 <!--
