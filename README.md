@@ -53,8 +53,11 @@
 <!-- 
   <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
 -->
+
 <p>
-  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" /> <img src="https://img.shields.io/badge/-%3A%20%3D%3E-044F88?style=flat-square" />&emsp;
+  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" /> <img src="https://img.shields.io/badge/-%3A%20%3D%3E-044F88?style=flat-square" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />&ensp;
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" />&ensp;
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=CC6699" />&ensp;
