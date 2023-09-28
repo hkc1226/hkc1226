@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=CC6699" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=FFFFFF&color=563D7C" />
-  <img src="https://img.shields.io/badge/-JavaScript-FFA116?style=fflat-square&logo=javascript&logoColor=FFDB4F&labelColor=323330&color=3F8F8F" />
+  <img src="https://img.shields.io/badge/-JavaScript-323330?style=fflat-square&logo=javascript&logoColor=323330&labelColor=F0DB4F&color=3F8F8F" />
   <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=FFFFFF&color=00599C" />
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />
@@ -72,7 +72,7 @@ CSS3: #264DE4, #2965F1, #EBEBEB, 1572B6
 HTML: #e34c26, #f06529, #ebebeb, #E34F26
 Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
 C++: #044F88 and #5E97D0.
-JavaScript: Yellow (#F0DB4F) and Dark Charcoal (#323330)
+JavaScript: Yellow (#F0DB4F) and Dark Charcoal (#323330), 308A8A
 BOotstrap: 563D7C
 -->
 <hr>
