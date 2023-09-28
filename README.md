@@ -38,7 +38,7 @@
 -->
 
 <p>
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/> <img src="https://img.shields.io/badge/-%3A%20%3D%3E-563D7C?style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-044F88?color=EBEBEB&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&labelColor=EBEBEB&logoColor=E34F26&color=FFA116" width="auto" height="20"/></a>&ensp;
@@ -54,9 +54,9 @@
 <!-- 
   <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
 -->
-
+<hr>
 <p>
-  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" /> <img src="https://img.shields.io/badge/-%3A%20%3D%3E-044F88?style=flat-square" />
+  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-044F88?color=EBEBEB&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />&ensp;
