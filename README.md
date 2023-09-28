@@ -53,8 +53,6 @@
 <!-- 
   <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
 -->
-
-
 <p>
   <img src="https://img.shields.io/badge/TECH%20STACKS%3A-darkgreen?style=flat" />
   <img src="https://img.shields.io/badge/-HTML-FFA116?style=fflat-square&logo=html5&logoColor=white&color=black" />
@@ -64,7 +62,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-FFA116?style=fflat-square&logo=javascript&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-C-FFA116?style=fflat-square&logo=c&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-C++-FFA116?style=fflat-square&logo=c%2B%2B&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />
   <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-PostgreSQL-FFA116?style=fflat-square&logo=postgresql&logoColor=white&color=black" />
