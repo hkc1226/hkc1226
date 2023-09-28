@@ -37,17 +37,18 @@
 9. no-frame (default = false) = true | false ;
 -->
 
-
 <p>
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-darkgreen?style=flat" /> <img src="https://img.shields.io/badge/%3A-red">
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LeetCode-F47D2E?style=flat-square&logo=LeetCode&labelColor=000000&logoColor=FFFFFF&color=F47D2E" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-HackerRank-00751F?style=flat-square&logo=Hackerrank&logoColor=FFFFFF&labelColor=00751F&color=00FF1F" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=flat-square&logo=geeksforgeeks&logoColor=white&color=black" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-CodePen-FFA116?style=flat-square&logo=codepen&logoColor=white&color=black" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white&color=black" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-FFA116?style=flat-square&logo=indeed&logoColor=white&color=black" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-FFA116?style=flat-square&logo=twitter&logoColor=white&color=black" width="auto" height="20"/></a>
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-FFA116?style=flat-square&logo=instagram&logoColor=white&color=black" width="auto" height="20"/></a>
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/> <img src="https://img.shields.io/badge/-%3A%20%3D%3E-563D7C?style=flat-square" width="auto" height="24"/>
+</p>
+<p>
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&labelColor=EBEBEB&logoColor=E34F26&color=FFA116" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=Hackerrank&logoColor=00751F&labelColor=EBEBEB&color=00751F" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=flat-square&logo=geeksforgeeks&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-CodePen-FFA116?style=flat-square&logo=codepen&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-FFA116?style=flat-square&logo=indeed&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-FFA116?style=flat-square&logo=twitter&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-FFA116?style=flat-square&logo=instagram&logoColor=white&color=black" width="auto" height="20"/></a>&ensp;
 </p>
 
 <!-- 
