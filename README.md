@@ -67,20 +67,24 @@
 
 <details align="left" dir="auto">
   <summary><sub><sub><img src="https://img.shields.io/badge/GitHub Stats-D166A3?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <br>
   <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 </details>
 
  <details align="left" dir="auto">
    <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%93%8A-Languages%20Used%20Stats%3A-2B8C67?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="26"/></sub></sub></summary>
+   <br>
    <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&theme=dark&locale=en&layout=compact" alt="Language Used Stats" /></p>
  </details>
 
 <details align="left" dir="auto">
   <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repositry-316192?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <br>
   <p align="center" dir="auto"><img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></p>
 </details>
 
 <details>
   <summary><sub><sub><img src="https://img.shields.io/badge/-LeetCode%20Progress%20Report%20Card-1572B6?style=flat-square&logo=LeetCode&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-0510E8?style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <br>
   <p align="center" dir="auto"><a href="https://github.com/hkc1226/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/?username=hkc1226&theme=dark" alt="LeetCode Stats"/></a></p>
 </details>
