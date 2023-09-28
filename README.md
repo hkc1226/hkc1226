@@ -46,13 +46,19 @@
   <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=298D46&labelColor=EBEBEB&color=298D46" width="auto" height="20"/></a>&ensp;
   <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=000000&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
   <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=0072B1&labelColor=EBEBEB&color=0072B1" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-FFA116?style=flat-square&logo=indeed&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-FFA116?style=flat-square&logo=twitter&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
-  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-FFA116?style=flat-square&logo=instagram&logoColor=white&labelColor=EBEBEB&color=black" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Indeed-003A9B?style=flat-square&logo=indeed&logoColor=003A9B&labelColor=EBEBEB&color=003A9B" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=EBEBEB&color=1DA1F2" width="auto" height="20"/></a>&ensp;
+  <a href="https://leetcode.com/hkc1226/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=EBEBEB&color=E4405F" width="auto" height="20"/></a>&ensp;
 </p>
 
 <!-- 
   <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
+
+instagram color composition: Light yellow (#FEDA75), 
+           orange (#FA7E1E), 
+           pink (#D62976), 
+           purple (#962FBF)
+           blue (#4F5BD5)
 -->
 <hr>
 <p>
