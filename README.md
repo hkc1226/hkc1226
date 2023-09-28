@@ -54,18 +54,18 @@
   <a href="https://twitter.com/hkc1226"><img src="https://img.shields.io/twitter/follow/hkc1226?logo=twitter&style=flat-square" alt="hkc1226" width="auto" height="24"/></a>
 -->
 <p>
-  <img src="https://img.shields.io/badge/TECH%20STACKS%3A-darkgreen?style=flat" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=CC6699" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=FFFFFF&color=563D7C" />
-  <img src="https://img.shields.io/badge/-JavaScript-323330?style=fflat-square&logo=javascript&logoColor=323330&labelColor=F0DB4F&color=3F8F8F" />
-  <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=FFFFFF&color=00599C" />
-  <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />
-  <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=20AA76&labelColor=092E20&color=2B8C67" />
-  <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=EBEBEB&color=316192" />
+  <img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" /> <img src="https://img.shields.io/badge/-%3A%20%3D%3E-044F88?style=flat-square" />&emsp;
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />&ensp;
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" />&ensp;
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=CC6699" />&ensp;
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=FFFFFF&color=563D7C" />&ensp;
+  <img src="https://img.shields.io/badge/-JavaScript-323330?style=fflat-square&logo=javascript&logoColor=323330&labelColor=F0DB4F&color=3F8F8F" />&ensp;
+  <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" />&ensp;
+  <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=FFFFFF&color=00599C" />&ensp;
+  <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />&ensp;
+  <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=20AA76&labelColor=092E20&color=2B8C67" />&ensp;
+  <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />&ensp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=EBEBEB&color=316192" />&ensp;
 </p>
 <!-- 
 CSS3: #264DE4, #2965F1, #EBEBEB, 1572B6
