@@ -76,6 +76,6 @@
  </details>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repo-316192?labelColor=000000&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repositry-316192?labelColor=000000&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </details>
