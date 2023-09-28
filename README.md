@@ -9,7 +9,7 @@
 <hr>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%A8-ABOUT%20ME-red?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="26"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%A8-ABOUT%20ME-006466?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-0B525B?style=flat-square" width="auto" height="26"/>
 </p>
 
 - 🌱 I’m currently learning **react.js**
@@ -19,7 +19,7 @@
 <hr>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86-GitHub%20Trophies-darkred?style=flat-square&labelColor=000000"  width="auto" height="26"/><img src="https://img.shields.io/badge/%3A-red?style=flat-square"  width="auto" height="26"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86-GitHub%20Trophies-4D194D?style=flat-square&labelColor=000000"  width="auto" height="26"/><img src="https://img.shields.io/badge/%3A-312244?style=flat-square"  width="auto" height="26"/>
 </p>
 
 <p>
@@ -31,7 +31,7 @@
 <hr>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%94%97-CONNECT%20WITH%20ME%20ON-563D7C?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="26"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%97-CONNECT%20WITH%20ME%20ON-5F3D9C?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-563D7C?&style=flat-square" width="auto" height="26"/>
 </p>
 
 <p>
@@ -47,7 +47,7 @@
 <hr>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF-TECH%20STACKS%20-044F88?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="26"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF-TECH%20STACKS%20-1572B6?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-044F88?&style=flat-square" width="auto" height="26"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" width="auto" height="22"/>&ensp;
@@ -66,7 +66,7 @@
 <hr>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub Stats-D166A3?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-CC4499?&style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/GitHub Stats-44545F?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-162233?&style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
   <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 </details>
@@ -78,13 +78,13 @@
  </details>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repositry-316192?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repositry-084F33?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-033320?style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
   <p align="center" dir="auto"><img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></p>
 </details>
 
 <details>
-  <summary><sub><sub><img src="https://img.shields.io/badge/-LeetCode%20Progress%20Report%20Card-1572B6?style=flat-square&logo=LeetCode&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-0510E8?style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/-LeetCode%20Progress%20Report%20Card-4B5320?style=flat-square&logo=LeetCode&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-373E0F?style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
   <p align="center" dir="auto"><a href="https://github.com/hkc1226/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/?username=hkc1226&theme=dark" alt="LeetCode Stats"/></a></p>
 </details>
