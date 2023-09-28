@@ -5,9 +5,11 @@
 <p>
   <b>A passionate Python Full-Stack Developer from India.</b>
 </p>
+
 <hr>
+
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%A8-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%A8-ABOUT%20ME-red?style=flat-square&labelColor=000000" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
 </p>
 
 - 🌱 I’m currently learning **react.js**
@@ -15,9 +17,9 @@
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
 
 <hr>
- 
+
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86-000000?style=flat-square"  width="auto" height="24"/><img src="https://img.shields.io/badge/%20GitHub%20Trophies-darkred?style=flat-square"  width="auto" height="24"/><img src="https://img.shields.io/badge/%3A-red?style=flat-square"  width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86-GitHub%20Trophies-darkred?style=flat-square&labelColor=000000"  width="auto" height="24"/><img src="https://img.shields.io/badge/%3A-red?style=flat-square"  width="auto" height="24"/>
 </p>
 
 <p>
@@ -28,10 +30,8 @@
 
 <hr>
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="20"/>
-
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%94%97-000?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20-563D7C?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%97-CONNECT%20WITH%20ME%20ON-563D7C?style=flat-square&labelColor=000000" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-5F3D9C?&style=flat-square" width="auto" height="24"/>
 </p>
 
 <p>
@@ -47,7 +47,7 @@
 <hr>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/TECH%20STACKS%20-044F88?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="24"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF-TECH%20STACKS%20-044F88?style=flat-square&labelColor=000000" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-1572B6?&style=flat-square" width="auto" height="24"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" />&ensp;
@@ -71,11 +71,11 @@
 </details>
 
  <details align="left" dir="auto">
-   <summary><sub><sub><img src="https://img.shields.io/badge/-%F0%9F%93%8A-black?&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/Languages%20Used%20Stats%3A-2B8C67?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
+   <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%93%8A-Languages%20Used%20Stats%3A-2B8C67?labelColor=000000&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="24"/></sub></sub></summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&locale=en&layout=compact" alt="Language Used Stats" />
  </details>
 
 <details align="left" dir="auto">
-  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/Top%20Contributed%20Repo-316192?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repo-316192?labelColor=000000&style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/-%3A-darkblue?style=flat-square" width="auto" height="24"/></sub></sub></summary>
   <img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </details>
