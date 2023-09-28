@@ -5,25 +5,36 @@
 
 <br>
 
-<p align="left"><b>A passionate Python Full-Stack Developer from India.</b></p><hr>
+<p align="left">
+  <b>A passionate Python Full-Stack Developer from India.</b>
+</p>
 
-<p><img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/></p>
+<hr>
+
+<p>
+  <img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
+</p>
 
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
-<!--
+
 <hr>
 
+<!--
  ## 🏆GitHub Trophies:
-<p><img src="https://img.shields.io/badge/%F0%9F%8F%86%20GitHub%20Trophies%3A-darkred?style=flat" /></p>
+-->
+ 
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86-000000?style=flat-square"  width="auto" height="24"/><img src="https://img.shields.io/badge/%20GitHub%20Trophies-darkred?style=flat-square"  width="auto" height="24"/><img src="https://img.shields.io/badge/%3A-red?style=flat-square"  width="auto" height="24"/>
+</p>
 
 <p align="left">
   <a href="https://github.com/hkc1226?tab=repositories" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6" alt="hkc1226" />
   </a>
 </p>
--->
+
 <!--
 # Parameters for 'https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=7&margin-w=6' are given below:
 1. title = Stars | Followers; 
