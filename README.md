@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-FFA116?style=fflat-square&logo=bootstrap&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-JavaScript-FFA116?style=fflat-square&logo=javascript&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/-C-FFA116?style=fflat-square&logo=c&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/-C++-FFA116?style=fflat-square&logo=c%2B%2B&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/-C++-FFA116?style=fflat-square&logo=c%2B%2B&logoColor=D5E4F3&labelColor=5E97D0&color=044F88" />
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" />
   <img src="https://img.shields.io/badge/-Django-FFA116?style=fflat-square&logo=django&logoColor=20AA76&labelColor=092E20&color=2B8C67" />
   <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" />
@@ -69,6 +69,7 @@
 </p>
 <!-- 
 Blue. dark blue : #0064A5; base blue : #336791; light blue : #008BB9. Grey. dark grey : #848484; base grey : #666666 ...00758F
+C++: #044F88 and #5E97D0.
 -->
 <hr>
 
