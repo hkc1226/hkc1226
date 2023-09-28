@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/%F0%9F%91%A8-black?style=flat-square" width="auto" height="24"/><img src="https://img.shields.io/badge/ABOUT%20ME-red?style=flat-square" width="auto" height="24"><img src="https://img.shields.io/badge/-%3A-FF0000?style=flat-square" width="auto" height="24"/>
 </p>
 
+<a href="https://www.google.com/">hridhikedj</a>
+
 - 🌱 I’m currently learning **react.js**
 - 💬 Ask me about **Python, JavaScript, MySQL**
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
