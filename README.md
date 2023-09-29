@@ -34,10 +34,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%94%97-CONNECT%20WITH%20ME%20ON-5F3D9C?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-563D7C?&style=flat-square" width="auto" height="26"/>
 </p>
 
-<p>
-
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="22")(https://github.com/hkc1226/)
-  
+<p>  
   <a href="https://github.com/hkc1226/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="22"/></a>&ensp;
   <a href="https://leetcode.com/hkc1226/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=E34F26&labelColor=EBEBEB&color=FFA116" width="auto" height="22"/></a>&ensp;
   <a href="https://www.hackerrank.com/Hkc1226/" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=Hackerrank&logoColor=00751F&labelColor=EBEBEB&color=00751F" width="auto" height="22"/></a>&ensp;
@@ -79,6 +76,12 @@
    <br>
    <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&theme=dark&locale=en&layout=compact" alt="Language Used Stats" /></p>
  </details>
+
+<details>
+  <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%A5-GitHub%20Streak%20Stats%20Card-black?style=flat-square&labelColor=black&color=992544" width="auto" height="26" /><img src="https://img.shields.io/badge/-%3A-AA3E0F?style=flat-square" width="auto" height="26"/></sub></sub></summary>
+  <br>
+  <p align="center" dir="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc792&theme=dark" alt="hkc792" /></p>
+</details>
 
 <details align="left" dir="auto">
   <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repositry-084F33?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-033320?style=flat-square" width="auto" height="26"/></sub></sub></summary>
