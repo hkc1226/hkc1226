@@ -35,6 +35,9 @@
 </p>
 
 <p>
+
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="22")(https://github.com/hkc1226/)
+  
   <a href="https://github.com/hkc1226/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=100000&labelColor=EBEBEB&color=100000" width="auto" height="22"/></a>&ensp;
   <a href="https://leetcode.com/hkc1226/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=E34F26&labelColor=EBEBEB&color=FFA116" width="auto" height="22"/></a>&ensp;
   <a href="https://www.hackerrank.com/Hkc1226/" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=Hackerrank&logoColor=00751F&labelColor=EBEBEB&color=00751F" width="auto" height="22"/></a>&ensp;
