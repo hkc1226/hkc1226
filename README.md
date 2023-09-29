@@ -68,29 +68,29 @@
 <details align="left" dir="auto">
   <summary><sub><sub><img src="https://img.shields.io/badge/GitHub Stats-44545F?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-162233?&style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
-  <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkc1226&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="auto"/></p>
 </details>
 
  <details align="left" dir="auto">
    <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%93%8A-Languages%20Used%20Stats%3A-2B8C67?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-darkgreen?&style=flat-square" width="auto" height="26"/></sub></sub></summary>
    <br>
-   <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&theme=dark&locale=en&layout=compact" alt="Language Used Stats" /></p>
+   <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkc1226&show_icons=true&theme=dark&locale=en&layout=compact" alt="Language Used Stats" width="400" height="auto"/></p>
  </details>
 
 <details>
   <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%A5-GitHub%20Streak%20Stats%20Card-black?style=flat-square&labelColor=black&color=992544" width="auto" height="26" /><img src="https://img.shields.io/badge/-%3A-AA3E0F?style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
-  <p align="center" dir="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc792&theme=dark" alt="hkc792" /></p>
+  <p align="center" dir="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkc792&theme=dark" alt="hkc792" width="400" height="auto"/></p>
 </details>
 
 <details align="left" dir="auto">
   <summary><sub><sub><img src="https://img.shields.io/badge/%F0%9F%94%9D-Top%20Contributed%20Repositry-084F33?labelColor=000000&style=flat-square" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-033320?style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
-  <p align="center" dir="auto"><img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></p>
+  <p align="center" dir="auto"><img src="https://github-contributor-stats.vercel.app/api?username=hkc1226&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400" height="auto"/></p>
 </details>
 
 <details>
   <summary><sub><sub><img src="https://img.shields.io/badge/-LeetCode%20Progress%20Report%20Card-4B5320?style=flat-square&logo=LeetCode&logoColor=FFFFFF&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-373E0F?style=flat-square" width="auto" height="26"/></sub></sub></summary>
   <br>
-  <p align="center" dir="auto"><a href="https://github.com/hkc1226/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/?username=hkc1226&theme=dark" alt="LeetCode Stats"/></a></p>
+  <p align="center" dir="auto"><a href="https://github.com/hkc1226/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/?username=hkc1226&theme=dark" alt="LeetCode Stats" width="400" height="auto"/></a></p>
 </details>
