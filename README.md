@@ -94,3 +94,6 @@
   <br>
   <p align="center" dir="auto"><a href="https://github.com/hkc1226/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/?username=hkc1226&theme=dark" alt="LeetCode Stats" width="400" height="auto"/></a></p>
 </details>
+
+
+<!-- [![Hrishikesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hkc1226&bg_color=211c20&color=88ff25&line=ffdc63&point=8aff63&area=true&hide_border=true)](https://github.com/hkc1226/github-readme-activity-graph) -->
