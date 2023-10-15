@@ -1,6 +1,7 @@
+<!--
 <p align="center">
   <img src="https://github.com/piyushdhir1/piyushdhir1/blob/main/READ%20ME%20TWICE.svg" alt="snake"></center>
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/%F0%9F%91%8B-darkblue?style=flat-square" width="auto" height="40"/><img src="https://img.shields.io/badge/I'm%20Hrishikesh-blue?style=flat-square" width="auto" height="40"/>
