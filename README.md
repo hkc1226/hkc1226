@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" width="auto" height="22"/>&ensp;
   <img src="https://img.shields.io/badge/-Django-092E20?style=fflat-square&logo=django&logoColor=green&labelColor=092E20&color=2B8C67" width="auto" height="22"/>&ensp;
   <img src="https://img.shields.io/badge/-MySQL-FFA116?style=fflat-square&logo=mysql&logoColor=FFFFFF&labelColor=00758F&color=F29111" width="auto" height="22"/>&ensp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=EBEBEB&color=316192" width="auto" height="22"/>&ensp;
+<!--   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=fflat-square&logo=postgresql&logoColor=0064A5&labelColor=EBEBEB&color=316192" width="auto" height="22"/>&ensp; -->
 </p>
 
 <hr>
