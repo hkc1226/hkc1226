@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=EBEBEB&color=CC6699" width="auto" height="22"/>&ensp;
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=EBEBEB&color=563D7C" width="auto" height="22"/>&ensp;
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=fflat-square&logo=javascript&logoColor=323330&labelColor=F0DB4F&color=3F8F8F" width="auto" height="22"/>&ensp;
-  <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" width="auto" height="22"/>&ensp;
+<!--   <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" width="auto" height="22"/>&ensp; -->
   <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=EBEBEB&color=00599C" width="auto" height="22"/>&ensp;
   <img src="https://img.shields.io/badge/-Python-FFA116?style=fflat-square&logo=python&logoColor=306998&labelColor=FFD43B&color=306998" width="auto" height="22"/>&ensp;
   <img src="https://img.shields.io/badge/-Django-092E20?style=fflat-square&logo=django&logoColor=green&labelColor=092E20&color=2B8C67" width="auto" height="22"/>&ensp;
