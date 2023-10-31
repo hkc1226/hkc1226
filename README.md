@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%91%A8-ABOUT%20ME-006466?style=flat-square&labelColor=000000" width="auto" height="26"/><img src="https://img.shields.io/badge/-%3A-0B525B?style=flat-square" width="auto" height="26"/>
 </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **Python, JavaScript, MySQL**
 - 📫 How to reach me **Hrishikeshkumarc26@gmail.com**
 
@@ -96,4 +96,6 @@
 </details>
 
 
-<!-- [![Hrishikesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hkc1226&bg_color=211c20&color=88ff25&line=ffdc63&point=8aff63&area=true&hide_border=true)](https://github.com/hkc1226/github-readme-activity-graph) -->
+<!-- 
+Contribution Graph:
+[![Hrishikesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hkc1226&bg_color=211c20&color=88ff25&line=ffdc63&point=8aff63&area=true&hide_border=true)](https://github.com/hkc1226/github-readme-activity-graph) -->
