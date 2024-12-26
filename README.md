@@ -24,7 +24,7 @@
 
 <p align="center" dir="auto">
   <a href="https://github.com/hkc1226?tab=repositories" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=4&margin-w=10&margin-h=10" alt="hkc1226" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hkc1226&row=2&column=8&margin-w=10&margin-h=10" alt="hkc1226" />
   </a>
 </p>
 
