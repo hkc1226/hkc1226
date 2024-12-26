@@ -52,8 +52,8 @@
 <p align="center" dir="auto" row="2" column="5">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=fflat-square&logo=html5&logoColor=E34F26&labelColor=EBEBEB&color=E34F26" width="auto" height="24"/>&ensp;
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=fflat-square&logo=css3&logoColor=1572B6&labelColor=EBEBEB&color=1572B6" width="auto" height="24"/>&ensp;
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=EBEBEB&color=CC6699" width="auto" height="24"/>&ensp;
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=EBEBEB&color=563D7C" width="auto" height="24"/>&ensp;
+  <!-- <img src="https://img.shields.io/badge/-Sass-CC6699?style=fflat-square&logo=sass&logoColor=CC6699&labelColor=EBEBEB&color=CC6699" width="auto" height="24"/>&ensp; -->
+  <!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=fflat-square&logo=bootstrap&logoColor=563D7C&labelColor=EBEBEB&color=563D7C" width="auto" height="24"/>&ensp; -->
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=fflat-square&logo=javascript&logoColor=323330&labelColor=F0DB4F&color=3F8F8F" width="auto" height="24"/>&ensp;
 <!--   <img src="https://img.shields.io/badge/-Programming%20C-00599C?style=fflat-square&logo=c&logoColor=00599C&labelColor=EBEBEB&color=044F88" width="auto" height="24"/>&ensp; -->
   <img src="https://img.shields.io/badge/-C++-00599C?style=fflat-square&logo=c%2B%2B&logoColor=00599C&labelColor=EBEBEB&color=00599C" width="auto" height="24"/>&ensp;
